@@ -1,6 +1,6 @@
 # DownloadManager
 Download manager created with Horde, Libcluster, Nebulex.
-For learining purposes.
+For learning purposes.
 
 To start your Phoenix server:
 
